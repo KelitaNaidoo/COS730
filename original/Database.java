@@ -19,7 +19,7 @@ public class Database
 	{
 		 List<Reviewer> reviewerList = new ArrayList<>();
 		 
-		//sample reviewers with workload indicator
+		//sample reviewers
 		//additional attributes can be added such as conflicts
 		reviewerList.add(new Reviewer(1));
 		reviewerList.add(new Reviewer(2));
