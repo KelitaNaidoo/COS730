@@ -1,7 +1,6 @@
-# COS 730 – Assignment 2  
-## From Behavioural Models to Optimised Implementation
+# COS730 – Assignment 2: From Behavioural Models to Optimised Implementation
 
-This repository contains the implementation and supporting material for Assignment 2 of COS 730: Software Engineering I at the University of Pretoria.
+This repository contains the implementation for Assignment 2 of COS 730: Software Engineering I at the University of Pretoria.
 
 ## Overview
 
@@ -66,3 +65,25 @@ COS730-Assignment2/
 │   └── NotificationService.java
 │
 └── README.md
+```
+
+## How to Run
+
+Each implementation can be compiled and executed separately from its respective folder.
+
+### Run the Original Implementation
+
+```bash
+cd Original
+javac *.java
+java Main
+```
+
+### Run the Optimised Implementation
+
+```bash
+cd Optimised
+javac *.java
+java Main
+```
+
