@@ -1,4 +1,5 @@
-# COS730 – Assignment 2: From Behavioural Models to Optimised Implementation
+# COS730 – Assignment 2
+# From Behavioural Models to Optimised Implementation
 
 This repository contains the implementation for Assignment 2 of COS 730: Software Engineering I at the University of Pretoria.
 
